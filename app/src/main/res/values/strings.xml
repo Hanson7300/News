@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">News</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="art">Art</string>
+    <string name="business">Business</string>
+    <string name="economic">Economic</string>
+    <string name="military">Military</string>
+    <string name="politics">Politics</string>
+    <string name="technology">Tech</string>
+
+</resources>
